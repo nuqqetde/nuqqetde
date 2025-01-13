@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuqqetde&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## 🛠️ Technologie-Stack
